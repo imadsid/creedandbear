@@ -1,4 +1,5 @@
 **creedandbear**
+
 Python Script that establishes a real-time connection to the Binance WebSocket to capture and process the prices of selected cryptocurrencies
 
 **Prerequisites:**
