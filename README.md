@@ -3,9 +3,11 @@
 Python Script that establishes a real-time connection to the Binance WebSocket to capture and process the prices of selected cryptocurrencies
 
 **Prerequisites:**
+
 Python 3.7
 
 **Installation steps**
+
 	1	Clone the repo git clone https://github.com/imadsid41/creedandbear
 	2	Create a virtual environment python -m venv venv
 	3	Activate the virtual environment source venv/bin/activate
